@@ -1,5 +1,6 @@
 {
   "BOT_TOKEN": "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "VIDEO_FOLDER": "D:\\Playlist Files\\Song On Demand",
-  "NOTEPAD_FILE": "playitems.txt"
+  "NOTEPAD_FILE": "playitems.txt",
+  "TIME_LIMIT": 600
 }
